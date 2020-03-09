@@ -1,0 +1,3 @@
+R1-2:knit
+R3:*[p2tog] 3times, [yo, k1] 6 times, [p2tog] 3 times*
+R4: repeat R1

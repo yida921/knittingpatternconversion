@@ -1,0 +1,4 @@
+R1: k
+R2: p
+R3:*[p2tog] 3 times, [yo, k1] 6 times, [P2tog] 3 times*
+R4: P

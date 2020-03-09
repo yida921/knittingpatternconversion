@@ -1,0 +1,10 @@
+R1: *p1, k2tog, k2, yo, k1, yo, k2, ssk*
+REvens: *p*
+R3: Repeat Row 1
+R5:*p1, k2tog, k1, yo, k3, yo, k1, ssk*
+R7: *p1, k2tog, yo, k5, yo, ssk*
+R9: *sl1-k2tog-psso, yo, k7, yo*
+R11, 13: *K1, yo, k2, ssk, p1, k2tog, k2, yo*
+R15: K2, *yo ,k1, ssk, p1, k2tog, k1, yo, k3*, yo, ssk, p1, k2tog, k1, yo, k1
+R17: K3, *yo, ssk, p1, k2tog, yo, k5*, yo, ssk, p1, k2tog, yo, k2
+R19: K4, *yo, sl1-k2tog-psso, yo, k7*, yo, sl1-k2tog-psso, yo, k3

@@ -1,0 +1,12 @@
+r1: k8, k2tog, yo, k1, p1, k1, yo, ssk, k8
+r2: k7, ssk, k2, yo, p1, yo, k2, k2tog, k7
+r3: k6, k2tog, k1, yo, k2, p1, k2, yo, k1, ssk, k6
+r4: k5, ssk, k3, yo, k1, p1, k1, yo, k3, k2tog, k5
+r5: k4, k2tog, k2, yo, k3, p1, k3, yo, k2, ssk, k4
+r6: k3, ssk, k4, yo, k2, p1, k2, yo, k4, k2tog, k3
+r7: k2, k2tog, k3, yo, k4, p1, k4, yo, k3, ssk, k2
+r8: k1, ssk, k5, yo, k3, p1, k3, yo, k5, k2tog, k1
+r9: k2tog, k4, yo, k5, p1, k5, yo, k4, ssk
+r10: k11, p1, k11
+r11: k11, p1, k11
+r12: k11, p1, k11
